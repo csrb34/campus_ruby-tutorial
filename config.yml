@@ -1,0 +1,7 @@
+secret_key: password
+
+production:
+  aws_key: 123
+
+development:
+  aws_key: 456
